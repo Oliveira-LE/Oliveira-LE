@@ -23,8 +23,8 @@
 ### Para mais informações ou entrar em contato, seguem abaixo as minhas redes 😉
  
 <div> 
-  <a href="https://instagram.com/eletiva_nossa_fotografia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.researchgate.net/profile/Luciano-Oliveira-23" target="_blank"><img src="https://img.shields.io/badge/-Researchgate-%23E4405F?style=for-the-badge&logo=researchgate&logoColor=white" target="_blank"></a>
+  <a href="https://bsky.app/profile/luciano-oliveira.bsky.social" target="_blank"><img src="https://img.shields.io/badge/-Bluesky-%23E4405F?style=for-the-badge&logo=bluesky&logoColor=white" target="_blank"></a>
+  <a href="https://www.researchgate.net/profile/Luciano-Oliveira-23" target="_blank"><img src="https://img.shields.io/badge/-Reseachgate-%23E4405F?style=for-the-badge&logo=researchgate&logoColor=white" target="_blank"></a>
   <a href="https://orcid.org/0000-0002-4737-0514" target="_blank"><img src="https://img.shields.io/badge/-Orcid-%230077B5?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luciano-oliveira-64a6211b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lamparinada.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-Blogger-%230077B5?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
