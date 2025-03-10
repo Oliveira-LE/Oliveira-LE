@@ -19,6 +19,7 @@
   <img align="center" alt="Js" height="30" width="40" src="https://github.com/geopandas/geopandas/blob/main/doc/source/_static/logo/geopandas_icon.png">
   <img align="center" alt="Js" height="30" width="40" src="https://www.svgrepo.com/show/330457/folium.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/streamlit/streamlit-plain-wordmark.svg">
+   <img align="center" alt="Js" height="30" width="40" src="https://img.icons8.com/?size=100&id=9Kvi1p1F0tUo&format=png&color=000000">
             
 </div>
  
@@ -32,4 +33,5 @@
   <a href="https://orcid.org/0000-0002-4737-0514" target="_blank"><img src="https://img.shields.io/badge/-Orcid-%230077B5?style=for-the-badge&logo=orcid&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/luciano-oliveira-64a6211b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="http://lamparinada.blogspot.com/" target="_blank"><img src="https://img.shields.io/badge/-Blogger-%230077B5?style=for-the-badge&logo=blogger&logoColor=white" target="_blank"></a>
+   <a href="https://public.tableau.com/app/profile/luciano.oliveira1447/vizzes" target="_blank"><img src="https://img.shields.io/badge/-Tableau-%23E4405F?style=for-the-badge&logo=tableau&logoColor=white" target="_blank"></a>
 </div>
